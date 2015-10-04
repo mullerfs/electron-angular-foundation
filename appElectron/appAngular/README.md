@@ -1,0 +1,1 @@
+Home directory for angularjs app
